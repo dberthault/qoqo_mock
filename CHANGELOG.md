@@ -4,8 +4,11 @@ This changelog track changes to the qoqo project starting at version 0.2.0
 
 ## Not released
 
+<<<<<<< HEAD
 * Added the .cargo/config file to fix Macos unittest.
 
+=======
+>>>>>>> upstream/main
 ## 0.5.9
 
 * Added a minimum rust version.
