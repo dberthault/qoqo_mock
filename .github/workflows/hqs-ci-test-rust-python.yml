@@ -33,4 +33,4 @@ jobs:
       # Run tests also on windows runners
       windows: true
       # Not run tests on macos runners because of a cc linking error
-      macos: false
+      macos: true
